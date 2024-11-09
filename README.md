@@ -49,6 +49,16 @@ Objectives
 
 To detect fake news with high accuracy, reducing the spread of misinformation.
 
+DataSet Links:
+
+Fake CSV File :
+
+https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
+
+True CSV File :
+
+https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
+
 
 To enhance user awareness by providing insights into the reliability of online news sources.
 
